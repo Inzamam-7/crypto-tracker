@@ -3,14 +3,14 @@
 # 💰 Crypto Tracker
 
 A **MERN stack-based cryptocurrency tracker** that displays real-time data for the top coins using the **CoinGecko API**.  
-It automatically updates data every hour on the backend using **Node Cron** and refreshes the frontend every 30 seconds to show the latest prices.
+It automatically updates data every hour on the backend using **Node Cron** and refreshes the frontend every 30 minutes to show the latest prices.
 
 ---
 
 ## 🚀 Features
 
 - 📊 View live cryptocurrency data (name, symbol, price, market cap, etc.)
-- 🕒 Auto-refresh UI every **30 seconds**
+- 🕒 Auto-refresh UI every **30 minutes**
 - ⏰ Auto-update coin data in database every **1 hour** using **Node Cron**
 - 🧠 View detailed **coin history** for each cryptocurrency
 - ⚡ Built with **MERN Stack (MongoDB, Express, React, Node.js)**
