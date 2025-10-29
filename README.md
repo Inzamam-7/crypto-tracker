@@ -19,6 +19,9 @@ It automatically updates data every hour on the backend using **Node Cron** and 
 
 ---
 
+## 🖼️ Preview
+![App Preview](assets\cron_job snap.jpg)
+
 ## 🧩 Tech Stack
 
 **Frontend:**
@@ -92,3 +95,4 @@ Copy code
 npm run dev
 
 Then visit 👉 http://localhost:5173/
+
