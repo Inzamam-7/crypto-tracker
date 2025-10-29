@@ -19,10 +19,14 @@ It automatically updates data every hour on the backend using **Node Cron** and 
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview cron job
 ![App Preview](assets/cron_job_snap.jpg)
-![App Preview](assets\crypto-coins_db_snap.jpg)
 
+## 🖼️ Preview coin db
+![App Preview](assets/crypto-coins_db_snap.jpg)
+
+## 🖼️ Preview coin history db
+![App Preview](assets/crypto-coinhistory_db_snap.jpg)
 ## 🧩 Tech Stack
 
 **Frontend:**
