@@ -20,7 +20,7 @@ It automatically updates data every hour on the backend using **Node Cron** and 
 ---
 
 ## 🖼️ Preview
-![App Preview](assets\cron_job snap.jpg)
+![App Preview](assets/cron_job snap.jpg)
 
 ## 🧩 Tech Stack
 
