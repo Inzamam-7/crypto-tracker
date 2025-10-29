@@ -21,6 +21,7 @@ It automatically updates data every hour on the backend using **Node Cron** and 
 
 ## 🖼️ Preview
 ![App Preview](assets/cron_job_snap.jpg)
+![App Preview](assets\crypto-coins db_snap.jpg)
 
 ## 🧩 Tech Stack
 
