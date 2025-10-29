@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Dashboard from './pages/Dashboard'
-import CoinDetails from './pages/CoinDetails'
+import CoinDetails from './pages/coinDetails'
 
 const App = () => {
   return (
